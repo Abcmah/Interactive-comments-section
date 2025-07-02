@@ -22,6 +22,7 @@ a{
   background-color: #fff;
   padding: 1.2rem;
   border-radius: 10px;
+  transition: 300ms all;
 }
 .deleteCo h3,.dp b{
  color:  hsl(212, 24%, 26%);
@@ -105,6 +106,7 @@ a{
 .del{
   color: hsl(358, 79%, 66%);
   cursor: pointer;
+  transition: 300ms all;
 }
 .del:hover{
 color: hsl(357, 100%, 86%);
